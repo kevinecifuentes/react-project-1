@@ -1,0 +1,21 @@
+.app {
+  background-image: url(/images/bg1.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: grid;
+  justify-items: center;
+  padding: 0;
+}
+
+.image_container img {
+  width: 150px;
+  height: auto;
+}
+
+.image_container {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  width: min(100%, 300px);
+}
