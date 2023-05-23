@@ -1,0 +1,33 @@
+.quoteBox {
+  background-color: rgba(255, 255, 255, 0.34);
+  border-radius: 15px;
+  box-shadow: 10px 10px 20px rgba(10, 10, 10, 0.5);
+  overflow: hidden;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+.quoteBox img {
+  border-radius: inherit;
+}
+
+.article {
+  text-align: center;
+}
+
+.button {
+  display: block;
+  margin: 30px auto;
+  height: 35px;
+  border-radius: 10px;
+  background-color: #222;
+  color: white;
+}
+
+.button:hover {
+  background-color: rgba(183, 183, 63, 0.84);
+  color: white;
+  border: 1px solid white;
+}

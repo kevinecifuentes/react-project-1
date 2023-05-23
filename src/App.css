@@ -1,21 +1,19 @@
 .app {
-  background-image: url(/images/bg1.jpg);
+  background-image: url('/public/images/oscuro.webp');
   background-size: cover;
   background-position: center;
   min-height: 100vh;
+  min-width: 100vw;
   display: grid;
   justify-items: center;
-  padding: 0;
-}
-
-.image_container img {
-  width: 150px;
-  height: auto;
-}
-
-.image_container {
-  display: grid;
   align-items: center;
+}
+
+.app__container {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
   justify-items: center;
+  align-items: center;
   width: min(100%, 300px);
+  gap: 50px;
 }
