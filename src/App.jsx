@@ -12,6 +12,7 @@ const background = ['bg1', 'bg2', 'bg3', 'bg4']
 function App() {
   const [quote, setQuote] = useState(getElements(dbQuotes))
   const [bgImg, setbgImg] = useState(getElements(background))
+
   const handlerChangeQuote = () => {
     setQuote(getElements(dbQuotes))
     setbgImg(getElements(background))

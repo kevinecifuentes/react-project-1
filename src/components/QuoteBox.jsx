@@ -1,7 +1,7 @@
 const QuoteBox = ({ phrase, image, handlerChangeQuote }) => {
   return (
     <section className="quoteBox">
-      <img src="./images/jeff-bezos.webp" alt="hola" />
+      <img src={`${image}`} alt="hola" />
       <article className="article">
         <p>{phrase}</p>
       </article>
