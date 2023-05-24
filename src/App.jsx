@@ -22,7 +22,7 @@ function App() {
     <main className={`app ${bgImg}`}>
       <section className="app__container">
         <div className="title__container">
-          <h1 className="h1">Bussines Man</h1>
+          <h1 className="h1">Businessman</h1>
         </div>
         <QuoteBox
           handlerChangeQuote={handlerChangeQuote}
