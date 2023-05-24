@@ -1,5 +1,5 @@
 .quoteBox {
-  background-color: rgba(255, 255, 255, 0.305);
+  background-color: rgba(255, 255, 255, 0.455);
   border-radius: 15px;
   box-shadow: 10px 10px 20px rgba(10, 10, 10, 0.664);
   overflow: hidden;
@@ -31,28 +31,8 @@
 }
 
 .button:hover {
-  background-color: rgba(183, 183, 63, 0.84);
+  background-color: rgba(0, 0, 0, 0.44);
   color: white;
   border: 1px solid white;
   font-weight: 600;
 }
-
-/* .quoteBox.img1 {
-  background-image: url(/public/images/jeff-bezos.webp);
-}
-
-.quoteBox.img2 {
-  background-image: url(/public/images/richard-branson.webp);
-}
-
-.quoteBox.img3 {
-  background-image: url(/public/images/warren-buffett.webp);
-}
-
-.quoteBox.img4 {
-  background-image: url(/public/images/jim-simons.webp);
-}
-
-.quoteBox.img5 {
-  background-image: url(/public/images/ray-dalio.webp);
-} */

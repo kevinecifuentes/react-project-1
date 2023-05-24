@@ -1,6 +1,6 @@
 [
     {
-      "phrase": "Lo que tenemos que hacer es ir siempre hacia el futuro; cuando el mundo cambia a tu alrededor y cuando cambia en tu contra, tienes que apoyarte en eso y descubrir qué hacer, porque quejarse no es una estrategia.",
+      "phrase": "Lo que tenemos que hacer es ir siempre hacia el futuro; cuando el mundo cambia a tu alrededor y en tu contra, tienes que apoyarte en eso y descubrir qué hacer. Quejarse no es una estrategia.",
       "author": "Jeff Bezos",
       "image": "./images/jeff-bezos.webp"
     },
@@ -25,54 +25,24 @@
       "image": "./images/warren-buffett.webp"
     },
     {
-      "phrase": "You don't have to be faster than the bear, you just have to be faster than the slowest guy who runs from it.",
-      "author": "proverbia.net",
-      "image": "./images/jeff-bezos.webp"
+      "phrase": "Las cosas no se hacen siguiendo caminos distintos para que no sean iguales, sino para que sean mejores.",
+      "author": "Elon Musk",
+      "image": "./images/elon-musk.webp"
     },
     {
-      "phrase": "Don't take life too seriously. You won't get out of it alive.",
-      "author": "proverbia.net",
-      "image": "./images/jeff-bezos.webp"
+      "phrase": "Al mundo no le importará tu autoestima. El mundo esperará que logres algo, independientemente de que te sientas bien o no contigo mismo.",
+      "author": "Bill Gates",
+      "image": "./images/bill-gates.webp"
 
     },
     {
-      "phrase": "Tomorrow may be too late to enjoy what you have today.",
-      "author": "ajescudero",
-      "image": "./images/jeff-bezos.webp"
+      "phrase": "Siento que hay una angustia existencial entre la gente joven. Yo no tuve eso, ellos ven enormes montañas, mientras yo veía una pequeña colina que debía escalar.",
+      "author": "Sergey Brin",
+      "image": "./images/sergey-brin.webp"
     },
     {
-      "phrase": "When looking for what you want most, remember to do your best.",
-      "author": "ajescudero",
-      "image": "./images/jeff-bezos.webp"
-    },
-    {
-      "phrase": "Don't forget that a friend is a gift you give yourself.",
-      "author": "ajescudero",
-      "image": "./images/jeff-bezos.webp"
-    },
-    {
-      "phrase": "Rejoice, a path of beautiful passions awaits you and you must walk it.",
-      "author": "ajescudero",
-      "image": "./images/jeff-bezos.webp"
-    },
-    {
-      "phrase": "A reputation of a thousand years may depend on the conduct of an hour",
-      "author": "Japanese Proverb",
-      "image": "./images/jeff-bezos.webp"
-    },
-    {
-      "phrase": "Feel the happiness waiting for you and don't forget to catch it to keep it with you.",
-      "author": "ajescudero",
-      "image": "./images/jeff-bezos.webp"
-    },
-    {
-      "phrase": "Rejoice, a path of beautiful passions awaits you and you must walk it",
-      "author": "ajescudero",
-      "image": "./images/jeff-bezos.webp"
-    },
-    {
-      "phrase": "Not everyone can receive the same things. It was practiced.",
-      "author": "ajescudero",
-      "image": "./images/jeff-bezos.webp"
+      "phrase": "Si vives cada día de tu vida como si fuera el último, algún día realmente tendrás razón.",
+      "author": "Steve Jobs",
+      "image": "./images/steve-jobs.webp"
     }
   ]

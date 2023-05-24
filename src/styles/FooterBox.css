@@ -1,1 +1,12 @@
+.h3 {
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 5px;
+  padding: 5px 5px;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.725);
+  font-weight: 400;
+}
 
+.author {
+  color: rgb(255, 255, 255);
+  font-weight: 800;
+}

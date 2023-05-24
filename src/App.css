@@ -25,11 +25,18 @@
   background-image: url('/public/images/bg4.webp');
 }
 
+.h1 {
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 5px;
+  padding: 5px 5px;
+  box-shadow: 5px 10px 10px rgba(16, 16, 16, 0.599);
+}
+
 .app__container {
   display: grid;
   grid-template-rows: auto 1fr auto;
   justify-items: center;
   align-items: center;
   width: min(100%, 300px);
-  gap: 11px;
+  gap: 20px;
 }
